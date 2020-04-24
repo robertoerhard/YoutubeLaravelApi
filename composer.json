@@ -1,13 +1,13 @@
 {
-    "name": "alchemyguy/youtube-laravel-api",
+    "name": "robertoerhard/youtube-laravel-api",
     "description": "It is a wrapper over Youtube Api v3 which simplifies functionalities the laravel way.",
-    "keywords": ["alchemyguy", "YoutubeLaravelApi", "Youtube LiveStream", "php", "Youtube Backup", "Youtube Video", "Youtube Api V3", "laravel", "Oauth", "google api", "Youtube Channel"],
-    "homepage": "https://github.com/alchemyguy/YoutubeLaravelApi",
+    "keywords": ["robertoerhard", "YoutubeLaravelApi", "Youtube LiveStream", "php", "Youtube Backup", "Youtube Video", "Youtube Api V3", "laravel", "Oauth", "google api", "Youtube Channel"],
+    "homepage": "https://github.com/robertoerhard/YoutubeLaravelApi",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mukesh Chandra",
-            "email": "mukesh201722@gmail.com",
+            "name": "Roberto Erhard",
+            "email": "roberto.erhard@gmail.com",
             "role": "Developer"
         }
     ],
